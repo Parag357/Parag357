@@ -1,1 +1,1 @@
-![Profile views](https://gpvc.arturio.dev/[Parag357])
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
