@@ -5,9 +5,9 @@
 
 <p align="center">
 <a href="https://github.com/Parag357/covid-19-awareness">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=covid-19-awareness&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=covid-19-awareness&theme=gruvbox&text_color=ffff9f" />
 </a>
 <a href="https://github.com/Parag357/Attendance-Manager">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=Attendance-Manager&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=Attendance-Manager&theme=gruvbox&text_color=ffff9f" />
 </a>
  </p>
