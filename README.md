@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=Parag357&theme=gruvbox&show_icons=true&hide=issues&text_color=ffff9f" alt="Parag's github stats"> 
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parag357&theme=gruvbox&text_color=ffff9f&hide=javascript&layout=compact"/>
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parag357&theme=gruvbox&text_color=ffff9f&layout=compact"/>
 </p>
 <p align="center">
 <a href="https://github.com/Parag357/covid-19-awareness">
