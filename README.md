@@ -9,7 +9,7 @@
 <a href="https://github.com/Parag357/covid-19-awareness">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=covid-19-awareness&theme=gruvbox&text_color=000&bg_color=f0e130&title_color=000&icon_color=832a0d" />
 </a>
-<a href="https://github.com/Parag357/Attendance-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=Attendance-Manager&theme=gruvbox&text_color=000&bg_color=f0e130&title_color=000&icon_color=832a0d" />
+<a href="https://github.com/Parag357/flask_rest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parag357&repo=flask_rest&theme=gruvbox&text_color=000&bg_color=f0e130&title_color=000&icon_color=832a0d" />
 </a>
  </p>
